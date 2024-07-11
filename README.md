@@ -1,5 +1,5 @@
 # Steady-And-Silly-color-name-changed
-a file that changes the color and name of steady and silly in GorillaShirt ( you can also change for what ever you want it to be ! )  ( my file will change the ''steady'' to the color and name white and the name and color of ''silly'' will be yellow
+a file that changes the color and name of steady and silly in GorillaShirt ( you can also change for what ever you want it to be ! )  ( my file will change the ''steady'' to the color and name white and the name and color of ''silly'' will be yellow )
 
 
 Step 1 : install the code of gorilla shirt ( https://github.com/developer9998/GorillaShirts )
