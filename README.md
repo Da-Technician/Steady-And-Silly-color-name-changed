@@ -13,10 +13,10 @@ step 4 : paste it and click ''replace the file in the destination'' in the folde
 step 5 : build/compile it and then you're done ! ( the color are white and yellow and their name are their respective color without you're own customization )
 
 
-steps to costomize color and name : 
+steps to costomize to your choise the color and name : 
 
 
-step 1 : install and open the file ''StandRig.cs'' with notepad or visual studio
+step 1 : install and open the file ''StandRig.cs'' ( when you download the source code of gorillashirt the file will already be there in the project so instaling my file isn't necessary ) with notepad or visual studio
 
 step 2 ( change the color ) : after opening the file you should see ''color'' at the line 11 and right under at the lines 12 and 13 you can customize the color ! ( it works like the ingame color system so 0.9 0.9 0.0 are gonna do yellow
 
